@@ -1,17 +1,21 @@
 # EtheriumCalcBonus2
 
-# Description
+## Description
 EtheriumCalcBonus2 is a Java program designed to calculate rewards from Ethereum staking over a specified period.
 It prompts the user to input investment details and calculates rewards based on the staking reward rate and desired payment day.
 
-How to Execute
-Compile: Compile the Java source file EtheriumCalcBonus2.java.
-javac EtheriumCalcBonus2.java
+## How to Execute
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+-[Compile:](#compile:) Compile the Java source file EtheriumCalcBonus2.java.
+```javac EtheriumCalcBonus2.java```
 
-Run: Run the compiled Java program.
+-[Run:] Run the compiled Java program.
 java EtheriumCalcBonus2
-Follow Instructions: Follow the instructions prompted by the program to provide necessary inputs such as investment amount, staking reward rate, and desired payment day.
-Output: The program will generate a CSV file named EtheriumCalc_v2.csv on the desktop containing the calculated reward data.
+-[Follow] Instructions: Follow the instructions prompted by the program to provide necessary inputs such as investment amount, staking reward rate, and desired payment day.
+-[Output:] The program will generate a CSV file named EtheriumCalc_v2.csv on the desktop containing the calculated reward data.
 
 Requirements
 Java Development Kit (JDK) installed on your system.
@@ -30,7 +34,9 @@ Ensure that the JDK is properly configured and accessible from the command line.
 The program generates a CSV file containing reward data named EtheriumCalc_v2.csv on the desktop. Ensure proper file permissions and directory access.
 Input validation is implemented to handle invalid user inputs gracefully.
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
 
 
 
