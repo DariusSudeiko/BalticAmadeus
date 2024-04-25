@@ -1,7 +1,4 @@
-# balticAmadeus
-Project is part of the interview process an internship at Baltic Amadeus 
-
-EtheriumCalcBonus2
+#EtheriumCalcBonus2
 
 Description
 EtheriumCalcBonus2 is a Java program designed to calculate rewards from Ethereum staking over a specified period.
