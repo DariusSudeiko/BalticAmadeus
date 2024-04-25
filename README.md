@@ -30,7 +30,7 @@ The file has been created
 ## Notes
 - Ensure that the JDK is properly configured and accessible from the command line.
 - The program generates a CSV file containing reward data named EtheriumCalc_v2.csv on the desktop. Ensure proper file permissions and directory access.
-- nput validation is implemented to handle invalid user inputs gracefully.
+- Input validation is implemented to handle invalid user inputs gracefully.
 - **Note:** Before running the program, remember to switch the destination folder inside the code to the desired location where you want the output file to be saved.
 
 ## License
