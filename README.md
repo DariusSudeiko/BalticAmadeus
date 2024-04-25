@@ -1,6 +1,6 @@
-#EtheriumCalcBonus2
+# EtheriumCalcBonus2
 
-Description
+# Description
 EtheriumCalcBonus2 is a Java program designed to calculate rewards from Ethereum staking over a specified period.
 It prompts the user to input investment details and calculates rewards based on the staking reward rate and desired payment day.
 
