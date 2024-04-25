@@ -24,7 +24,7 @@ How many months into the future are we checking ? 6
 Please enter the amount you would like to invest: 1000
 What is the staking reward rate? 5
 What is your desired payment day? 15
-The file has been created```
+The file has been created ```
 
 ## Notes
 Ensure that the JDK is properly configured and accessible from the command line.
