@@ -10,7 +10,7 @@ It prompts the user to input investment details and calculates rewards based on 
 - [Contributing](#contributing)
 - [License](#license)
 -[Compile:](#compile:) Compile the Java source file EtheriumCalcBonus2.java.
-```javac EtheriumCalcBonus2.java```
+```javac EtheriumCalcBonus2.java
 
 -[Run:] Run the compiled Java program.
 java EtheriumCalcBonus2
