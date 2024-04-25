@@ -5,7 +5,7 @@ EtheriumCalcBonus2 is a Java program designed to calculate rewards from Ethereum
 It prompts the user to input investment details and calculates rewards based on the staking reward rate and desired payment day.
 
 ## How to Execute
-- [Compile:](#compile:) Compile the Java source file <span style="font-weight: bold;">EtheriumCalcBonus2.java</span>.
+- [Compile:](#compile:) Compile the Java source file <span style="color:black; font-weight: bold;">EtheriumCalcBonus2.java</span>.
   
 ```javac EtheriumCalcBonus2.java```
 
